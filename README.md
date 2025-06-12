@@ -90,9 +90,13 @@ The system follows a two-stage pipeline:
 
 ## 📁 Project Structure
 📂 Guitar-Chord-Recognition-Using-CNN
+
 ├── 📁 Codes/ # contains the code files
+
 ├── 📁 images1/ # Contains images used by UI
+
 ├── 📄 guitar_chord_recognition_final.pth # contains trained weights
+
 └── 📄 README.md # Project overview (this file)
 
 
